@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229314026679",
+    "project_id": "habitup-app-2026",
+    "storage_bucket": "habitup-app-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229314026679:android:b53c707f011c117cc68132",
+        "android_client_info": {
+          "package_name": "com.example.habitup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_EmnkXbMaOTA6fZT-uJi_gLBJiw7Quzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
